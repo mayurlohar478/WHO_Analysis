@@ -40,6 +40,6 @@ Here are the key points and structural elements you can include in your `README.
 
 ## How to Run the Project
 
-1. Clone 
+1. Clone : https://github.com/mayurlohar478/WHO_Analysis.git
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook: `exploratory_data_analysis_project.ipynb`
